@@ -1,1 +1,1 @@
-# steg_assignment
+# steganography_assignment

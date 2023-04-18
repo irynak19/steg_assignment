@@ -19,7 +19,7 @@ In this lab, I will show how data can be extracted from images. I will conceal a
  
 <p align="center">
 Check the image properties to analyze its size and dimensions: <br/>
-<img src="https://i.imgur.com/a/vtIxVz2.png" height="80%" width="80%" alt="dsk"/>
+<img src="https://github.com/irynak19/steg_practice/issues/1#issue-1672205650" width="80%" alt="dsk"/> 
 <br />
 <br />
 Select the disk:  <br/>
